@@ -8,7 +8,7 @@ public class Denis implements Info {
     }
 
     public void sayDenis() {
-        System.out.println("Я пидор");
+        System.out.println("Я Денис");
     }
 
     @Override
