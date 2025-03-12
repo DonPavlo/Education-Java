@@ -1,4 +1,4 @@
-public class Dog extends Animal {
+public class Dog extends Animal17 {
     public void bark() {
         System.out.println("Гаф");
     }
@@ -10,5 +10,10 @@ public class Dog extends Animal {
 
     public void sleep() {
         System.out.println("Я сплю как собака ");
+    }
+
+    @Override
+    public void makeSound() {
+
     }
 }
